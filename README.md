@@ -15,3 +15,6 @@ HTML5: Structured the content and integrated the game elements.
 How to Play:
 Simply click on the drum pads with your mouse or tap on them if you're using a touch-enabled device.
 Alternatively, press the corresponding keys on your keyboard ('w', 'a', 's', 'd', 'j', 'k', 'l') to play the sounds.
+
+Demo:
+https://vgomees.github.io/drum-game/
